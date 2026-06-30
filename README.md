@@ -1,4 +1,4 @@
-# Codex Halo
+# Codex Halo-Windows
 
 一个为 Codex 准备的 Windows 桌面状态光环。
 
