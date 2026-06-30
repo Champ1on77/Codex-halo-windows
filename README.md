@@ -370,11 +370,3 @@ Codex Halo 的想法和 Windows 光环实现参考了：
 Codex Halo 不是 OpenAI 官方项目，也不是 Codex 官方插件。
 
 它只是一个本地桌面辅助工具。使用前请确认你理解它的工作方式：它会读取本机 Codex session 日志中的任务事件，用于显示桌面状态光环。
-
----
-
-## License
-
-发布到 GitHub 前，请根据你最终保留和分发的代码来源补充明确的 `LICENSE` 文件。
-
-如果继续基于 `Houyusu/claude-halo` 分发，请检查原项目授权，并在仓库中保留相应的 license、copyright 和 attribution。
